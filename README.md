@@ -23,4 +23,5 @@ O módulo Validacao_pagamento é responsável por realizar o processo de valida�
 
 * Validação de Segurança: Verifica a autenticidade e integridade das informações do pagamento para evitar fraudes.
 
+## Fluxo do Kafka 
 ![clideo_editor_cf7df45b971946d7a2d32f0a49c89d0e-ezgif com-crop](https://github.com/LuandsonAlves/Pagamento-kafka-mensageria/assets/90480558/ef232a76-b0e8-4470-a9ec-951ecd8abee7)
