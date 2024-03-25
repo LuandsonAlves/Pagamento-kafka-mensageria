@@ -5,7 +5,6 @@
 * Spring Boot
 * Docker
 * Apache Kafka
-* Apache Avro
 * Control Center
 * Schema Registry
 * Banco de dados H2
